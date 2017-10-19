@@ -21,7 +21,7 @@ int main(){
     cout << "el valor de x: " << x << "\n";
     *ptr = 10;
     
-    ptr = &y;
+    ptr == &y;
     
     cout << "el nuevo valor de x: " << x << "\n";
 
